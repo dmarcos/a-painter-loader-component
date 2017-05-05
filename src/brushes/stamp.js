@@ -163,18 +163,18 @@
       name: 'dots',
       materialOptions: {
         type: 'shaded',
-        textureSrc: 'brushes/stamp_dots.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_dots.png'
       },
-      thumbnail: 'brushes/thumb_stamp_dots.gif',
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_stamp_dots.gif',
       spacing: 0.01
     },
     {
       name: 'squares',
       materialOptions: {
         type: 'shaded',
-        textureSrc: 'brushes/stamp_squares.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_squares.png'
       },
-      thumbnail: 'brushes/thumb_stamp_squares.gif',
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_stamp_squares.gif',
       spacing: 0.01
     },
     {
@@ -182,9 +182,9 @@
       materialOptions: {
         type: 'shaded',
         autoRotate: true,
-        textureSrc: 'brushes/stamp_column.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_column.png'
       },
-      thumbnail: 'brushes/thumb_stamp_column.gif',
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_stamp_column.gif',
       spacing: 0.01
     },
     {
@@ -193,9 +193,9 @@
         type: 'shaded',
         angleJitter: Math.PI * 2,
         subTextures: 2,
-        textureSrc: 'brushes/stamp_gear.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_gear.png'
       },
-      thumbnail: 'brushes/thumb_stamp_gear.gif',
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_stamp_gear.gif',
       spacing: 0.05
     },
     {
@@ -203,9 +203,9 @@
       materialOptions: {
         type: 'shaded',
         angleJitter: Math.PI * 2,
-        textureSrc: 'brushes/stamp_grunge1.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_grunge1.png'
       },
-      thumbnail: 'brushes/stamp_grunge1.png',
+      thumbnail: 'https://aframe.io/a-painter/brushes/stamp_grunge1.png',
       spacing: 0.02
     },
     {
@@ -213,9 +213,9 @@
       materialOptions: {
         type: 'shaded',
         angleJitter: Math.PI * 2,
-        textureSrc: 'brushes/stamp_grunge2.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_grunge2.png'
       },
-      thumbnail: 'brushes/stamp_grunge2.png',
+      thumbnail: 'https://aframe.io/a-painter/brushes/stamp_grunge2.png',
       spacing: 0.02
     },
     {
@@ -223,9 +223,9 @@
       materialOptions: {
         type: 'shaded',
         angleJitter: Math.PI * 2,
-        textureSrc: 'brushes/stamp_grunge3.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_grunge3.png'
       },
-      thumbnail: 'brushes/stamp_grunge3.png',
+      thumbnail: 'https://aframe.io/a-painter/brushes/stamp_grunge3.png',
       spacing: 0.02
     },
     {
@@ -233,9 +233,9 @@
       materialOptions: {
         type: 'shaded',
         angleJitter: Math.PI * 2,
-        textureSrc: 'brushes/stamp_grunge4.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_grunge4.png'
       },
-      thumbnail: 'brushes/stamp_grunge4.png',
+      thumbnail: 'https://aframe.io/a-painter/brushes/stamp_grunge4.png',
       spacing: 0.02
     },
     {
@@ -243,9 +243,9 @@
       materialOptions: {
         type: 'shaded',
         angleJitter: Math.PI * 2,
-        textureSrc: 'brushes/stamp_grunge5.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_grunge5.png'
       },
-      thumbnail: 'brushes/thumb_stamp_grunge5.gif',
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_stamp_grunge5.gif',
       spacing: 0.02
     },
     {
@@ -253,9 +253,9 @@
       materialOptions: {
         type: 'shaded',
         angleJitter: Math.PI,
-        textureSrc: 'brushes/stamp_leaf1.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_leaf1.png'
       },
-      thumbnail: 'brushes/stamp_leaf1.png',
+      thumbnail: 'https://aframe.io/a-painter/brushes/stamp_leaf1.png',
       spacing: 0.03
     },
     {
@@ -263,9 +263,9 @@
       materialOptions: {
         type: 'shaded',
         angleJitter: 60 * Math.PI / 180.0,
-        textureSrc: 'brushes/stamp_leaf2.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_leaf2.png'
       },
-      thumbnail: 'brushes/thumb_stamp_leaf2.gif',
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_stamp_leaf2.gif',
       spacing: 0.03
     },
     {
@@ -273,9 +273,9 @@
       materialOptions: {
         type: 'shaded',
         angleJitter: 60 * Math.PI / 180.0,
-        textureSrc: 'brushes/stamp_leaf3.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_leaf3.png'
       },
-      thumbnail: 'brushes/thumb_stamp_leaf3.gif',
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_stamp_leaf3.gif',
       spacing: 0.03
     },
     {
@@ -284,9 +284,9 @@
         type: 'shaded',
         angleJitter: 40 * Math.PI / 180.0,
         subTextures: 2,
-        textureSrc: 'brushes/stamp_fur1.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_fur1.png'
       },
-      thumbnail: 'brushes/stamp_fur1.png',
+      thumbnail: 'https://aframe.io/a-painter/brushes/stamp_fur1.png',
       spacing: 0.01
     },
     {
@@ -295,9 +295,9 @@
         type: 'shaded',
         angleJitter: 10 * Math.PI / 180.0,
         subTextures: 3,
-        textureSrc: 'brushes/stamp_fur2.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_fur2.png'
       },
-      thumbnail: 'brushes/stamp_fur2.png',
+      thumbnail: 'https://aframe.io/a-painter/brushes/stamp_fur2.png',
       spacing: 0.01
     },
     {
@@ -306,9 +306,9 @@
         type: 'shaded',
         angleJitter: 10 * Math.PI / 180.0,
         subTextures: 3,
-        textureSrc: 'brushes/stamp_grass.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_grass.png'
       },
-      thumbnail: 'brushes/thumb_stamp_grass.png',
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_stamp_grass.png',
       spacing: 0.03
     },
     {
@@ -316,18 +316,18 @@
       materialOptions: {
         type: 'shaded',
         subTextures: 2,
-        textureSrc: 'brushes/stamp_bush.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_bush.png'
       },
-      thumbnail: 'brushes/thumb_stamp_bush.gif',
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_stamp_bush.gif',
       spacing: 0.04
     },
     {
       name: 'star',
       materialOptions: {
         type: 'shaded',
-        textureSrc: 'brushes/stamp_star.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_star.png'
       },
-      thumbnail: 'brushes/thumb_stamp_star.png',
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_stamp_star.png',
       spacing: 0.06
     },
     {
@@ -335,9 +335,9 @@
       materialOptions: {
         type: 'shaded',
         angleJitter: Math.PI * 2,
-        textureSrc: 'brushes/stamp_snow.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/stamp_snow.png'
       },
-      thumbnail: 'brushes/thumb_stamp_snow.png',
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_stamp_snow.png',
       spacing: 0.06
     }
   ];

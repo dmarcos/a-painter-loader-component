@@ -4,6 +4,7 @@
   "description": "A-Painter Loader Component",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack",
+    "dist": "webpack src/index.js dist/a-painter-loader-component.js && webpack -p src/index.js dist/a-painter-loader-component.min.js",
     "start": "webpack-dev-server --host 0.0.0.0",
     "lint": "semistandard -v | snazzy"
   },

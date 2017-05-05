@@ -1,5 +1,5 @@
 require('./binary-manager.js');
-require('./a-painter-loader-component.js');
+require('./a-painter-loader.js');
 
 // Brushes
 require('./brushes/line.js');

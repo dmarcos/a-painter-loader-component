@@ -1,4 +1,4 @@
-AFRAME.registerComponent('apainter-loader', {
+AFRAME.registerComponent('a-painter-loader', {
   schema: {src: {type: 'asset'}},
   brushes: {},
   strokes: [],

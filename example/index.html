@@ -12,6 +12,11 @@
   <body>
     <a-scene fog="color: #bc483e; near: 0; far: 65;">
       <a-entity position="0 0 -0.5">
+        <!-- Drawings -->
+        <a-entity a-painter-loader="src: https://ucarecdn.com/3e089e07-be62-48e1-9f12-9a284c249e77/"
+                  position="-1 0 -2.5" rotation="0 90 0"></a-entity>
+        <a-entity a-painter-loader="src: https://ucarecdn.com/bacf6186-96b1-404c-9751-e955ece04919/"
+                  position="1 0 -1" rotation="0 250 0" ></a-entity>
         <!-- Environment -->
         <a-entity id="sky"
                   geometry="primitive: sphere; radius: 65;"
@@ -20,9 +25,6 @@
          <a-entity light="type: point; color: #f4f4f4; intensity: 0.2; distance: 0" position="8 10 18"></a-entity>
          <a-entity light="type: point; color: #f4f4f4; intensity: 0.6; distance: 0" position="-8 10 -18"></a-entity>
          <a-entity light="type: ambient; color: #f4f4f4; intensity: 0.4;" position="-8 10 -18"></a-entity>
-         <!-- Drawings -->
-         <a-entity apainter-loader="src: https://ucarecdn.com/3e089e07-be62-48e1-9f12-9a284c249e77/"></a-entity>
-         <a-entity apainter-loader="src: https://ucarecdn.com/0b45b93b-e651-42d8-ba49-b2df907575f3/"></a-entity>
       </a-entity>
     </a-scene>
   </body>

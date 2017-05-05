@@ -177,110 +177,110 @@
       materialOptions: {
         type: 'flat'
       },
-      thumbnail: 'brushes/thumb_flat.gif'
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_flat.gif'
     },
     {
       name: 'smooth',
       materialOptions: {
         type: 'shaded'
       },
-      thumbnail: 'brushes/thumb_smooth.gif'
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_smooth.gif'
     },
     {
       name: 'squared-textured',
       materialOptions: {
         type: 'textured',
-        textureSrc: 'brushes/squared_textured.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/squared_textured.png'
       },
-      thumbnail: 'brushes/thumb_squared_textured.gif'
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_squared_textured.gif'
     },
     {
       name: 'line-gradient',
       materialOptions: {
         type: 'textured',
-        textureSrc: 'brushes/line_gradient.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/line_gradient.png'
       },
-      thumbnail: 'brushes/thumb_line_gradient.gif'
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_line_gradient.gif'
     },
     {
       name: 'silky-flat',
       materialOptions: {
         type: 'textured',
-        textureSrc: 'brushes/silky_flat.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/silky_flat.png'
       },
-      thumbnail: 'brushes/thumb_silky_flat.gif'
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_silky_flat.gif'
     },
     {
       name: 'silky-textured',
       materialOptions: {
         type: 'textured',
-        textureSrc: 'brushes/silky_textured.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/silky_textured.png'
       },
-      thumbnail: 'brushes/thumb_silky_textured.gif'
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_silky_textured.gif'
     },
     {
       name: 'lines1',
       materialOptions: {
         type: 'textured',
-        textureSrc: 'brushes/lines1.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/lines1.png'
       },
-      thumbnail: 'brushes/thumb_lines1.gif'
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_lines1.gif'
     },
     {
       name: 'lines2',
       materialOptions: {
         type: 'textured',
-        textureSrc: 'brushes/lines2.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/lines2.png'
       },
-      thumbnail: 'brushes/thumb_lines2.gif'
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_lines2.gif'
     },
     {
       name: 'lines3',
       materialOptions: {
         type: 'textured',
-        textureSrc: 'brushes/lines3.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/lines3.png'
       },
-      thumbnail: 'brushes/thumb_lines3.gif'
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_lines3.gif'
     },
     {
       name: 'lines4',
       materialOptions: {
         type: 'textured',
-        textureSrc: 'brushes/lines4.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/lines4.png'
       },
-      thumbnail: 'brushes/thumb_lines4.gif'
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_lines4.gif'
     },
     {
       name: 'lines5',
       materialOptions: {
         type: 'textured',
-        textureSrc: 'brushes/lines5.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/lines5.png'
       },
-      thumbnail: 'brushes/thumb_lines5.gif'
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_lines5.gif'
     },
     {
       name: 'line-grunge1',
       materialOptions: {
         type: 'textured',
-        textureSrc: 'brushes/line_grunge1.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/line_grunge1.png'
       },
-      thumbnail: 'brushes/thumb_line_grunge1.gif'
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_line_grunge1.gif'
     },
     {
       name: 'line-grunge2',
       materialOptions: {
         type: 'textured',
-        textureSrc: 'brushes/line_grunge2.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/line_grunge2.png'
       },
-      thumbnail: 'brushes/thumb_line_grunge2.gif'
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_line_grunge2.gif'
     },
     {
       name: 'line-grunge3',
       materialOptions: {
         type: 'textured',
-        textureSrc: 'brushes/line_grunge3.png'
+        textureSrc: 'https://aframe.io/a-painter/brushes/line_grunge3.png'
       },
-      thumbnail: 'brushes/thumb_line_grunge3.gif'
+      thumbnail: 'https://aframe.io/a-painter/brushes/thumb_line_grunge3.gif'
     }
   ];
 
