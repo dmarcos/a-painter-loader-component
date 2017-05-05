@@ -9,7 +9,7 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: __dirname,
-    filename: 'build.js'
+    filename: './example/js/build.js'
   },
   plugins: PLUGINS
 };
