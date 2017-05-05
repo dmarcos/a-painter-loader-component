@@ -2,9 +2,9 @@
   "name": "a-painter-loader-component",
   "version": "0.1.0",
   "description": "A-Painter Loader Component",
+  "main": "src/index.js",
   "scripts": {
-    "build": "cross-env NODE_ENV=production webpack",
-    "dist": "webpack src/index.js dist/a-painter-loader-component.js && webpack -p src/index.js dist/a-painter-loader-component.min.js",
+    "dist": "webpack --display-error-details src/index.js dist/a-painter-loader-component.js && webpack -p src/index.js dist/a-painter-loader-component.min.js",
     "start": "webpack-dev-server --host 0.0.0.0",
     "lint": "semistandard -v | snazzy"
   },
@@ -19,7 +19,7 @@
     "cross-env": "^2.0.1",
     "semistandard": "^9.0.0",
     "snazzy": "^4.0.1",
-    "webpack": "^1.13.2",
+    "webpack": "^1.13.0",
     "webpack-dev-server": "^1.16.1"
   }
 }
