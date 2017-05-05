@@ -1,6 +1,6 @@
 ## a-painter-loader
 
-Component that let you import A-Painter(https://aframe.io/a-painter drawings in any of your A-Frame(https://aframe.io/) scenes.
+Component that let you import [A-Painter](https://aframe.io/a-painter) drawings in any of your [A-Frame](https://aframe.io/) scenes.
 
 [SEE THE DEMO](http://swimminglessonsformodernlife.com/a-painter-loader-component/example)
 
