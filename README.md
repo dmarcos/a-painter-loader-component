@@ -1,6 +1,6 @@
 ## a-painter-loader
 
-Component that let you import A-Painter[https://aframe.io/a-painter/] drawings in any of your A-Frame[https://aframe.io/] scenes.
+Component that let you import A-Painter(https://aframe.io/a-painter/0 drawings in any of your A-Frame(https://aframe.io/) scenes.
 
 [SEE THE DEMO](http://swimminglessonsformodernlife.com/a-painter-loader-component/example)
 
@@ -8,7 +8,7 @@ Component that let you import A-Painter[https://aframe.io/a-painter/] drawings i
 
 ## Loading a drawing saved with a-painter
 
-When saving a drawing on [A-Painter][aframe.io/a-painter] you will get an URL that stores the drawing data.
+When saving a drawing on [A-Painter](aframe.io/a-painter) you will get an URL that stores the drawing data.
 
 ![](https://d3vv6lp55qjaqc.cloudfront.net/items/2U0O0T0B2q311P0N0H3o/Image%202017-05-05%20at%204.28.13%20PM.png)
 
